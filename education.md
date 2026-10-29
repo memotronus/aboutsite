@@ -7,21 +7,15 @@ title: Education
 
 ## Degree / Program
 
-Your University Name  
-Bachelor’s / Master’s in [Field]
+University of Southern California  
+Pursuing Bachelor of Science in Electrical and Computer Engineering
 
-- Relevant coursework: [Course 1], [Course 2], [Course 3]
-- Academic focus: [Your focus area]
-
-## Honors / Achievements
-
-- Dean’s List
-- Research scholarship
-- Competition or award
+- Relevant coursework: EE 141 Applied Linear Algebra for Electrical Engineers, EE 155 Computer Programming for Electrical Engineers, MATH 229 Calculus III, EE 105 Intro to Electrical and Computer Engineering
+- Academic focus: Sensor and Radar Technology
 
 ## Skills developed
 
-- Analytical thinking
-- Problem solving
-- Research and writing
+- Circuit Analysis/PCB Design
+- Object-Oriented Programming
+- Open Source Intelligence
 - Technical communication
