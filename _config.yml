@@ -1,0 +1,7 @@
+title: My Site
+email: your-email@example.com
+description: >
+  A simple Jekyll site
+baseurl: ""
+url: "https://memotronus.github.io"
+theme: minima
