@@ -7,7 +7,7 @@ title: Home
   <section class="hero">
     <p class="eyebrow">Research • Engineering • Design</p>
     <h1>Hello, I’m Jaffa</h1>
-    <p class="lead">How do you connect passion for science, humanities, and art? I believe the best ideas emerge from broadening your horizons. Nuclear fusion, digital forensics, intelligence, piano performance, photography. Muay Thai, are just a few topics I pursue.</p>
+    <p class="lead">How do you connect passion for science, humanities, and art? I believe the best ideas emerge from broadening your horizons. Nuclear fusion, digital forensics, intelligence, piano performance, photography, Muay Thai — just a few topics I pursue.</p>
 
     <div class="cta-row">
       <a class="primary" href="projects.md">See projects</a>
