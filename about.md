@@ -5,21 +5,22 @@ title: About
 
 # About Me
 
-I’m a person with a mix of technical curiosity and practical problem-solving. I enjoy building systems, learning new tools, and turning ideas into working products.
+Originally from Chicago, I've grown up exposed to all walks of life and experiences, which impacts my engineering design and artistic thinking.
 
 ## Skills
 
+- Open-Source Intelligence Collection
 - Python
-- JavaScript / TypeScript
-- HTML / CSS
-- Jekyll / GitHub Pages
-- Data analysis
-- Problem solving
-
+- C++
+- Java
+- Altium
+- Nx
+- Piano Performance
+ 
 ## Interests
 
-- Software engineering
-- Product design
-- Research
-- Open-source work
-- Education and mentorship
+- HUMINT, OSINT, SIGINT
+- Digital Forensics, Forensics Science
+- RF
+- Photography
+- Muay Thai
